@@ -1,0 +1,3 @@
+[submodule "powerups"]
+	path = powerups
+	url = git@github.com:seanorelli/powerups.git
